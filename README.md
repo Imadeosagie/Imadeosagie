@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Imadeosagie
-- 👀 I’m interested in Web Application Development with Django
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Data Analytics with SQL and Tableau, currently learning software engineering 
+- 🌱 I’m currently learning Data Analytics and Visualisation 
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me +2349056426939
 
